@@ -2,7 +2,7 @@
 ### Projet du parcours de formation Data Analyst réalisé en partenariat avec l’ENSAE-ENSAI.
 Création d'un algorithme de détection de faux billets.
 
-### Préambule
+## Préambule
 Pour ce projet, les données ont été manipulées en Python. Mise en oeuvre d'une analyse de **statistique descriptive**, ainsi qu'une **analyse en composantes principales**, une **classification automatique**, et une modélisation de type **régression logistique**.
 
 ### Compétences évaluées
@@ -11,8 +11,8 @@ Pour ce projet, les données ont été manipulées en Python. Mise en oeuvre d'u
  - Réaliser une ACP
  - Utiliser un algorithme de clustering de type Kmeans
 
-### Prérequis techniques
 
+## Prérequis techniques
 Si vous n'avez jamais installé **Python**, alors autant installer directement la **distribution Anaconda**.
 Anaconda est donc une distribution Python, faite pour la Data Science.
 
@@ -44,7 +44,7 @@ pip install numpy
 pip install scipy
 ```
 
-### Auteur
+## Auteur
 
 **Nalron** *(Nicolas Pasero)* - *Initial work* - [Github Nalron](https://github.com/nalron)
 
