@@ -11,10 +11,6 @@ Pour ce projet, les données ont été manipulées en Python. Également, vous d
  - Réaliser une ACP
  - Utiliser un algorithme de clustering de type Kmeans
 
-### Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prérequis
 
 Si vous n'avez jamais installé **Python**, alors autant installer directement la **distribution Anaconda**.
