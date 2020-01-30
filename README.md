@@ -3,7 +3,7 @@
 Création d'un algorithme de détection de faux billets.
 
 ### Préambule
-Pour ce projet, les données ont été manipulées en Python. Mise en oeuvre d'une analyse de statistique descriptive, ainsi qu'une analyse en composantes principales, une classification automatique, et une modélisation de type régression logistique.
+Pour ce projet, les données ont été manipulées en Python. Mise en oeuvre d'une analyse de **statistique descriptive**, ainsi qu'une **analyse en composantes principales**, une **classification automatique**, et une modélisation de type **régression logistique**.
 
 ### Compétences évaluées
  - Interpréter une ACP
