@@ -46,5 +46,5 @@ pip install scipy
 
 ### Auteur
 
-**Nalron** *(Nicolas Pasero)* - *Initial work* - [Nalron](https://github.com/nalron)
+**Nalron** *(Nicolas Pasero)* - *Initial work* - [Github Nalron](https://github.com/nalron)
 
