@@ -1,9 +1,9 @@
 # Projet : Détectez des faux billets
 ### Projet du parcours de formation Data Analyst réalisé en partenariat avec l’ENSAE-ENSAI.
-Projet de création d'un algorithme de détection de faux billets.
+Création d'un algorithme de détection de faux billets.
 
 ### Préambule
-Pour ce projet, les données ont été manipulées en Python. Également, vous devrez effectuer une analyse de statistique descriptive, ainsi qu'une analyse en composantes principales, une classification automatique, et une modélisation de type régression logistique.
+Pour ce projet, les données ont été manipulées en Python. Mise en oeuvre d'une analyse de statistique descriptive, ainsi qu'une analyse en composantes principales, une classification automatique, et une modélisation de type régression logistique.
 
 ### Compétences évaluées
  - Interpréter une ACP
@@ -11,12 +11,12 @@ Pour ce projet, les données ont été manipulées en Python. Également, vous d
  - Réaliser une ACP
  - Utiliser un algorithme de clustering de type Kmeans
 
-### Prérequis
+### Prérequis techniques
 
 Si vous n'avez jamais installé **Python**, alors autant installer directement la **distribution Anaconda**.
 Anaconda est donc une distribution Python, faite pour la Data Science.
 
-De cette manière on peut installer Python et ses librairies de Data Science Pandas, Matplotlib, Scipy, Numpy
+De cette manière on peut installer Python et ses librairies de Data Science Pandas, Matplotlib, Scipy, Numpy etc… 
 Mais aussi le notebook Jupyter, qui reste incontournable et vivement recommandé!
 C'est par ici : [Anaconda](https://www.anaconda.com/download)
 
