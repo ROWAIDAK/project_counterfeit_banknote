@@ -1,7 +1,8 @@
 # Projet : Détectez des faux billets
-### Projet du parcours de formation Data Analyst réalisé en partenariat avec l’ENSAE-ENSAI.
+### Projet du parcours Data Analyst OpenCmassrooms réalisé avec l’ENSAE-ENSAI.
 Création d'un algorithme de détection de faux billets.
 
+![](p6_graphic/projection_kmeans.png)
 
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python. Mise en oeuvre d'une analyse de **statistique descriptive**, ainsi qu'une **analyse en composantes principales**, une **classification automatique**, et une modélisation de type **régression logistique**.
@@ -47,5 +48,5 @@ pip install scipy
 
 ## Auteur
 
-**Nalron** *(Nicolas Pasero)* - *Initial work* - [Github Nalron](https://github.com/nalron)
+**Nalron** *(Nicolas Pasero)* [Persona](https://nalron.com) - *Initial work* - [Github](https://github.com/nalron)
 
