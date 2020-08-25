@@ -4,7 +4,7 @@ Création d'un algorithme de détection de faux billets.
 
 ![](p6_graphic/projection_kmeans.png)
 
-### Scénario :
+## Scénario
 Société de consulting informatique *(préférant garder l'anonymat)*, un nouveau contrat au [Ministère de l'Intérieur](https://www.interieur.gouv.fr/) a été remporté. Cette nouvelle mission intervient dans le cadre de la lutte contre la criminalité organisée, à [l'Office central pour la répression du faux monnayage](https://www.police-nationale.interieur.gouv.fr/Organisation/Direction-Centrale-de-la-Police-Judiciaire/Lutte-contre-la-criminalite-organisee/Office-central-pour-la-repression-du-faux-monnayage). La mission est d'intérêt public, élaborer un algorithme de détection de faux billets. Un seul mot d'ordre : **Traquer la moindre fraude!**
 
 ## Préambule
@@ -55,4 +55,3 @@ pip install scipy
 ## Auteur
 
 **Nalron** *(Nicolas Pasero)* [Persona](https://nalron.com) - *Initial work* - [Github](https://github.com/nalron)
-
